@@ -1,0 +1,4 @@
+name: ElytraDaisuki
+version: '${version}'
+main: dev.moru3.elytradaisuki.ElytraDaisuki
+api-version: 1.16
